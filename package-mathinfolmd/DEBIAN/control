@@ -1,0 +1,10 @@
+Package:package-mathinfolmd
+Version:1.0.0
+Section:base
+Priority:optional
+Architecture:all
+Depends:bash
+Files:/usr/bin/package-mathinfolmd
+Maintainer: Moise NDJADI<ndjadim@gamail.com>,  Elysee NDOMA<elizio977@gmail.com>
+Description: ce package contient un ensemble des logiciels importants pour les étudiants de LMD en math info
+Homepage: //mettre le lien

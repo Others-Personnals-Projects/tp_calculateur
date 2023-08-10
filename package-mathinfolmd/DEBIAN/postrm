@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+
+echo "Le package est correctement desinstallé, pouvez-vous prendre un moment pour nous dire les raisons de cette desinstallation ?"
+
+exit 0

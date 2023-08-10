@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+
+echo "L'installation terminée
+Merci d'utiliser notre package !"
+
+exit 0
